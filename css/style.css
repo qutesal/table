@@ -1,0 +1,36 @@
+body {
+	background: url(https://p0.pikist.com/photos/669/849/marble-background-backdrop-marble-background-surface-gray-stone-texture-floor.jpg);
+	background-size: cover;
+
+}
+
+.table {
+	margin-top: 7%;
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+	
+}
+
+
+.first-name {
+	font-size: 35px;
+	margin-bottom: 1%;
+}
+
+.name {
+	opacity: 100%;
+	text-shadow: 0px 0px 10px #000;
+}
+
+
+.table-2 {
+	border-radius: 10px;
+	opacity: 70%;
+	background-color: white;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	margin-left: 41%;
+	margin-right: 41%;
+	box-shadow: 0 0 20px 10px #808080;
+}
